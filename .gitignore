@@ -147,3 +147,6 @@ CMakeListsPrivate.txt
 
 #CLion
 cmake-build-*
+
+#Add openfab Builds folder
+!OPENFAB-BUILDS/*
